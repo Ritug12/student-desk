@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Student
+        Desk</string>
+
+    <string name="enter_name">Country Name</string>
+    <string name="add_record">Add Record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">Currency</string>
+    <string name="enter_title">Country</string>
+    <string name="bms">A candidate for being eligible for admission to the <b>B.M.S. Degree Course</b> shall have passed H.S.C. Examination of the Maharashtra Board of Higher Secondary Education or its equivalent examination or Diploma in any Engineering branches with two years or three years duration after S.S.C. conducted by the Board of Technical Education, Maharashtra State or its equivalent examination by securing minimum 45% marks for general category (in one attempt) at the respective Examination and minimum 40% marks for the reserved category (in one attempt)."\n"
+
+No college shall conduct any entrance test in any form and the admissions are purely based on merit duly following the reservation policy as per the norms of Government of Maharashtra. While drawing the merit list, weightage has to be given to students from Arts, Commerce and Science Stream at 12th standard level. The stream wise weightage to be given is as under :"\n"
+
+The applications are to be accepted and processed by the colleges stream wise separately and the merit list is to be displayed stream wise taking into account the reservation policy prescribed by the Government of Maharashtra."\n"
+
+<li>a. The merit list is to be prepared and displayed stream wise.</li>"\n"
+
+<li>b. In case if no applications are received under the “Diploma in Engineering and other Category” or if the seats remain vacant in “Diploma in Engineering and other Category” after all the merit lists/forms are exhausted, the vacant seats must be transferred to Commerce Stream.</li>"\n"
+
+<li>c. In case if no application is received from any stream the vacant seats are to be distributed equally between the remaining two streams only.</li>"\n"
+
+<li>d. After the first merit list is displayed, if any seat allotted to one"</li>\n"
+
+stream remains vacant, the same shall be distributed equally between the remaining two streams. In case of vacancy in one stream is of single/odd number of seats, the single seat is to be allotted to the Commerce Stream. In case if no applications are available from the two streams, then all the vacant seats of such two streams must be transferred to the third stream."\n"
+
+<li>e. Step (d) be repeated for the subsequent merit lists till all the forms are exhausted or the final merit list is displayed, whichever is earlier .</li>"\n"
+
+<b>Duration of Course:-</b>"\n"
+
+A. The Course shall be a full time course. The duration of the course shall be six semesters spread over three years."\n"
+
+B. Number of Students: A batch shall consist of not more than 60 students."\n"
+
+C. The course shall consist of 40 modules comprising of 38 theory papers and projects."\n"
+
+ </string>
+    <string name="cs">A three years integrated course leading to the degree of <b>Bachelor of Science(B.Sc.)</b> with <b>Computer Science</b> was introduced in the faculty of Science with effect from June, 2008."\n"
+
+The Bachelor of Science (B.Sc.) with Computer Science Course will have the status as one of the subjects at the B.Sc. course."\n"
+
+A candidate for being eligible for admission to the three years integrated course leading to the degree of Bachelor of Science (B.Sc.) must have passed Higher Secondary School Certificate Examination (Std. XII) in Science stream conducted by the Maharashtra State Board of Secondary and Higher Secondary Education with Mathematics and Statistics as one of the subject or its equivalent."\n"
+
+Admission will be on merit, based on order of preference as follows:"\n"
+        <o>
+<li>
+<b>1.</b> Aggregate Marks at H.S.C. or equivalent.</li>"\n"
+<li>
+<b>2.</b> Aggregate Marks in Science Group (Physics, Chemistry and Mathematics)</li>"\n"
+<li>
+        <b>3.</b> Marks in Mathematics and Statistics and Physics.</li></o>
+"\n"
+
+Marks in Mathematics and Statistics."\n"
+
+A student joining the B.Sc. course:"\n"
+
+Can offer Computer Science along with two other subjects and the Foundation Course at <i>F.Y.B.Sc.</i>"\n"
+Can offer Computer Science along with one other subject and the Foundation Course at <i>S.Y.B.Sc.</i>"\n"
+Can offer the Computer Science and Applied Component papers at <i>T.Y.B.Sc.</i>"\n"
+The Combination of Subjects will be decided by the College."\n"
+The following are the salient points about the proposed syllabus arrived at after reviving the earlier proposal for the syllabus. The course structure with titles of structures in various papers is given below:"\n"
+
+</string>
+    <string name="it">A candidate for being eligible for admission to the Degree Course of <b>Bachelor of Science - Information Technology</b> shall have passed XII Standard Examination of the Maharashtra Board of Higher Secondary Education or its equivalent with Mathematics as one of the subjects and should have secured not less than 45% marks in aggregate and 40% marks in aggregate in case of Reserved category at one and the same sitting."\n"
+    Or"\n"
+
+    Candidate who have passed Diploma in Computer Engineering/Computer Science/ Computer Technology/Electrical, Electronics and Allied branches. Mechanical and Allied branches. Civil and Allied branches of Engineering are eligible for admission to the Scond Year of the B.Sc.(I.T.) Degree Course. However, the Diploma should be recognised by the Board of Technical Education or any other recognised Government body. Minimum marks required 45% aggregate for Open Category candidates and 40% aggregate for Reserved Category candidates."\n"
+
+    And"\n"
+
+    Students with post HSC - Diploma in Computer Engineering/Computer Science/Computer Technology will be eligible for direct admission to the Second Year of B.Sc.(I.T.). However, the Diploma should be recognised by the Board of Technical Education or any other recognized Government body."\n"
+
+</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sd4"
+    android:fillViewport="false"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:background="@android:color/transparent"
+            android:text="Course Details"
+            android:textColor="@color/white_color" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:background="@android:color/transparent"
+            android:text="Syllabus/Lecture Details"
+            android:textColor="@color/white_color" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:background="@android:color/transparent"
+            android:text="Examination Notes"
+            android:textColor="@color/white_color" />
+
+
+        <Button
+            android:id="@+id/button27"
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:background="@android:color/transparent"
+            android:text="Notice"
+            android:textColor="@color/white_color" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

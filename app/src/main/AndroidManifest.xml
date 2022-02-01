@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".Admin_Login"
+            android:exported="false" />
+        <activity
+            android:name=".IUD"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateNotice"
+            android:exported="false" />
+        <activity
+            android:name=".AddNotice"
+            android:exported="false" />
+        <activity
+            android:name=".Notice"
+            android:exported="false" />
+        <activity
+            android:name=".BMS_Notes2"
+            android:exported="false" />
+        <activity
+            android:name=".BMS_Notes1"
+            android:exported="false" />
+        <activity
+            android:name=".IT_Geo_info"
+            android:exported="false" />
+        <activity
+            android:name=".IT_Cyber_law"
+            android:exported="false" />
+        <activity
+            android:name=".BMS_Notes"
+            android:exported="false" />
+        <activity
+            android:name=".CS_Notes"
+            android:exported="false" />
+        <activity
+            android:name=".IT_Notes"
+            android:exported="false" />
+        <activity
+            android:name=".Exam"
+            android:exported="false" />
+        <activity
+            android:name=".CS_det"
+            android:exported="false" />
+        <activity
+            android:name=".IT_det"
+            android:exported="false" />
+        <activity
+            android:name=".Bms_det"
+            android:exported="false" />
+        <activity
+            android:name=".TYIT"
+            android:exported="false" />
+        <activity
+            android:name=".SYIT"
+            android:exported="false" />
+        <activity
+            android:name=".FYIT"
+            android:exported="false" />
+        <activity
+            android:name=".TYCS"
+            android:exported="false" />
+        <activity
+            android:name=".SYCS"
+            android:exported="false" />
+        <activity
+            android:name=".FYCS"
+            android:exported="false" />
+        <activity
+            android:name=".TYBMS"
+            android:exported="false" />
+        <activity
+            android:name=".SYBMS"
+            android:exported="false" />
+        <activity
+            android:name=".FYBMS"
+            android:exported="false" />
+        <activity
+            android:name=".CS_Sec"
+            android:exported="false" />
+        <activity
+            android:name=".IT_Sec"
+            android:exported="false" />
+        <activity
+            android:name=".BMS_Sec"
+            android:exported="false" />
+        <activity
+            android:name=".Syllabus_Det"
+            android:exported="false" />
+        <activity
+            android:name=".Course_Det"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

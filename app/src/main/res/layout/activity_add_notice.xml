@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/addnotice"
+    tools:context="com.example.myapplication.AddNotice">
+
+    <EditText
+        android:id="@+id/edit_notice"
+        style="@style/editText_style"
+        android:layout_width="300dp"
+        android:layout_marginStart="30dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="50dp">
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/edit_descr"
+        style="@style/editText_style"
+        android:layout_width="300dp"
+        android:layout_marginStart="30dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/addrecord"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        style="@style/editButton_style"
+        android:textSize="20dp"
+        android:layout_marginTop="25dp"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        android:text="Add Record" />
+</LinearLayout>

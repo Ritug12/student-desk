@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/homepage.xml" value="0.1" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/login.xml" value="0.1" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_add_notice.xml" value="0.16510416666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_admin_login.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_bms_det.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_bms_notes.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_bms_notes1.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_bms_notes2.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_bms_sec.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_course_det.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_cs_det.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_cs_notes.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_cs_sec.xml" value="0.16510416666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_dashboard.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_exam.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_fybms.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_fycs.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_fyit.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_homepage.xml" value="0.11" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_it__cyber_law.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_it_cyber_law.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_it_det.xml" value="0.16510416666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_it_geo_info.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_it_notes.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_it_sec.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_iud.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_notice.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_sybms.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_sycs.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_syit.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_syllabus_det.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_tybms.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_tycs.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_tyit.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_update_notice.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/dialog.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/dialog1.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/dialog2.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_record.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/main.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/main_menu.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/mymenu.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/mymenu1.xml" value="0.17916666666666667" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/new_menu.xml" value="0.17916666666666667" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.15121580547112462" />
+        <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.12817028985507245" />
+        <entry key="app/src/main/res/layout/activity_it__data_ware.xml" value="0.12817028985507245" />
+        <entry key="app/src/main/res/layout/activity_tycs.xml" value="0.12817028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

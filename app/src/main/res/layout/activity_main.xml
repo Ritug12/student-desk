@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/logo"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="32dp"
+        app:layout_constraintHorizontal_bias="0.503" />
+
+    <Button
+        android:id="@+id/b1"
+        android:text="Sign-In"
+        android:onClick="sign_in"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        style="@style/editButton_style"
+        android:layout_width="190dp"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+
+        android:textColor="@android:color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+
+        app:layout_constraintVertical_bias="1.0" />/>
+
+<!--    <Button-->
+<!--        android:id="@+id/b2"-->
+<!--        android:layout_width="120dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Sign-Out"-->
+<!--        android:onClick="sign_out"-->
+<!--        android:layout_below="@+id/b1"-->
+<!--        android:layout_centerHorizontal="true">-->
+<!--    </Button>-->
+<!--    <Button-->
+<!--        android:id="@+id/b3"-->
+<!--        android:layout_width="120dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Delete_User"-->
+<!--        android:onClick="delete_user"-->
+<!--        android:layout_below="@+id/b2"-->
+<!--        android:layout_centerHorizontal="true">-->
+<!--    </Button>-->
+
+</RelativeLayout>
